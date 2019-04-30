@@ -20,7 +20,7 @@
     <link href="{{ asset('css/material-kit.css') }}" rel="stylesheet"/>
 
 </head>
-<body class="signup-page">
+<body class="@yield('body-class')">
 <nav class="navbar navbar-transparent navbar-absolute">
     <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
