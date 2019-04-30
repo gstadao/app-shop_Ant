@@ -51,9 +51,9 @@
                             </div>
                         </div>
                         <div class="footer text-center">
-                            <button type="submit" class="btn btn-simple btn-primary btn-lg">Ingresar</buttona>
+                            <button type="submit" class="btn btn-simple btn-primary btn-lg">Ingresar</button>
                         </div>
-                        
+
                     </form>
                 </div>
             </div>
